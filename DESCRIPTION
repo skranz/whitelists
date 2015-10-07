@@ -1,0 +1,10 @@
+Package: whitelists
+Type: Package
+Title: Basic whitelists and blacklists to be used with whitelistcalls
+Version: 0.1
+Date: 2015-10-95
+Authors@R: person("Sebastian", "Kranz", email = "sebastian.kranz@uni-ulm.de", role = c("aut", "cre"))
+Description: Basic whitelists and blacklists
+License: GPL >= 2.0
+LazyData: TRUE
+Depends: yaml, restorepoint
